@@ -1,5 +1,8 @@
 
-This is the material and experiment resource list for the Chemistry department. Students can only use these lists, but they cannot add materials and experiments.
+# Chemistry Automation Project
+This project contains the material and experimental resources list for the Chemistry department, which brings facilities for students during their laboratory lesson day. Students can only use these lists or download the resources pdfs but  they cannot add or  delete any material or experimental resources.
+
+
 
 
 # Kimya_MalzemeVeDeneyeleri
